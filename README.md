@@ -7,10 +7,9 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BernardoSVieira&show_icons=true&theme=default"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoSVieira&layout=compact&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BernardoSVieira&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BernardoSVieira&layout=compact&theme=tokyonight"/>
 </div>
-
 ---
 
 ## 🛠️ Tecnologias
